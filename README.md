@@ -1,3 +1,3 @@
 # Visita mi aplicación 😉!
 
-https://studio.firebase.google.com/studio-1876134117
+https://9000-firebase-studio-1748609814888.cluster-duylic2g3fbzerqpzxxbw6helm.cloudworkstations.dev
